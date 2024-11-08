@@ -1,0 +1,8 @@
+# Copyright 2023 Manna Harbour
+# https://github.com/manna-harbour/miryoku
+
+outboard_repository=petejohanson/revxlp-config
+outboard_ref=main
+outboard_from=config/boards/shields/revxlp
+outboard_to=boards/shields/revxlp
+
